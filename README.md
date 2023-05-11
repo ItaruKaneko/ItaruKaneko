@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItaruKaneko
-Japanese, (63y) old  programmer
+Japanese, (65y) old  programmer
 - 👀 I’m interested in ...
 Audio signal processing (especially, spatial sound). High quality audio. Machine learning.
 Content delivery architecture and standardization.
